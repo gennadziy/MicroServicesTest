@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="login-service" />
+        <module name="config-server" />
+        <module name="gallery-service" />
+        <module name="bucket-service" />
+        <module name="security-service" />
+        <module name="store-service" />
+        <module name="filter-service" />
+        <module name="movie-service" />
+        <module name="order-service" />
+        <module name="user-service" />
+        <module name="zuul-service" />
+        <module name="eureka-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bucket-service" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="filter-service" target="1.8" />
+      <module name="gallery-service" target="1.8" />
+      <module name="login-service" target="1.8" />
+      <module name="movie-service" target="1.8" />
+      <module name="order-service" target="1.8" />
+      <module name="security-service" target="1.8" />
+      <module name="store-service" target="1.8" />
+      <module name="user-service" target="1.8" />
+      <module name="zuul-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

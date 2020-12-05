@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CLOUD2.iml" filepath="$PROJECT_DIR$/.idea/CLOUD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bucket-service/bucket-service.iml" filepath="$PROJECT_DIR$/bucket-service/bucket-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filter-service/filter-service.iml" filepath="$PROJECT_DIR$/filter-service/filter-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gallery-service/gallery-service.iml" filepath="$PROJECT_DIR$/gallery-service/gallery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login-service/login-service.iml" filepath="$PROJECT_DIR$/login-service/login-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie-service/movie-service.iml" filepath="$PROJECT_DIR$/movie-service/movie-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-service/order-service.iml" filepath="$PROJECT_DIR$/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-service/security-service.iml" filepath="$PROJECT_DIR$/security-service/security-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-service/store-service.iml" filepath="$PROJECT_DIR$/store-service/store-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-service/zuul-service.iml" filepath="$PROJECT_DIR$/zuul-service/zuul-service.iml" />
+    </modules>
+  </component>
+</project>
