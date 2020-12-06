@@ -2,7 +2,6 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -15,8 +14,8 @@
         <module name="store-service" />
         <module name="filter-service" />
         <module name="movie-service" />
-        <module name="order-service" />
         <module name="user-service" />
+        <module name="order-service" />
         <module name="zuul-service" />
         <module name="eureka-server" />
       </profile>
@@ -35,5 +34,17 @@
       <module name="user-service" target="1.8" />
       <module name="zuul-service" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bucket-service" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="movie-service" options="-parameters" />
+      <module name="order-service" options="-parameters" />
+      <module name="security-service" options="-parameters" />
+      <module name="store-service" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+      <module name="zuul-service" options="-parameters" />
+    </option>
   </component>
 </project>

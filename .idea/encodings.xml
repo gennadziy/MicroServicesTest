@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/bucket-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/filter-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gallery-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/login-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/movie-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/order-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/security-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/store-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/user-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/zuul-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bucket-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bucket-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filter-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gallery-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gallery-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/login-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/movie-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/movie-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/store-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/store-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-service/src/main/resources" charset="UTF-8" />
   </component>
 </project>
